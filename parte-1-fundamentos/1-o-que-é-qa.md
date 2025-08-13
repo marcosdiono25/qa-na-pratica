@@ -60,7 +60,8 @@ Se você acha que um QA só serve para "achar defeitos", entenda os custos da ba
 Isso acontece porque, quanto mais tarde um defeito é encontrado, mais caro e demorado é para corrigi-lo. O QA evita retrabalho e perda de credibilidade.
 
     **Caso prático:**  
-    Em 2012, um erro no sistema de navegação da British Airways fez a empresa perder milhões  em poucas horas porque todos os voos precisaram ser remarcados.  
+    Em 2012, um erro no sistema de navegação da British Airways fez a empresa perder milhões
+    em poucas horas porque todos os voos precisaram ser remarcados.  
     Uma simples validação no início do desenvolvimento poderia ter evitado todo o prejuízo.
 
 ---
