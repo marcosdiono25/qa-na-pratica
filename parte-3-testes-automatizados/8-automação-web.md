@@ -1,4 +1,4 @@
-# CAPÍTULO 8 - AUTOMAÇÃO WEB
+# CAPÍTULO 8 - AUTOMAÇÃO WEB (teoría)
 
 A web é o caminho mais visível do software para o usuário final. É nela que estão os formulários, botões e links que sustentam o sistema para uma boa experiência de uso. Por isso, garantir qualidade na interface é essencial.  
 
@@ -157,3 +157,4 @@ A solução está em estruturar bem os testes, usar seletores confiáveis (ex: `
 ## 8.8 - Conclusão do capítulo
 
 A automação web é a “vitrine” da qualidade de software, pois valida o que o usuário realmente vê. Porém, deve ser usada de forma estratégica, garantindo estabilidade e rapidez sem comprometer a manutenção.
+
